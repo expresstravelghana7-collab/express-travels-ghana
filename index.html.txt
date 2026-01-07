@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>express travels ghana | canada work permit</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header class="hero">
+  <img src="logo.png" alt="express travels ghana logo" class="logo" />
+  <h1>canada work permit & work and pay program</h1>
+  <p>trusted immigration support from ghana to canada. fast processing. transparent process.</p>
+  <a href="https://wa.me/233202758551" class="btn">apply now on whatsapp</a>
+</header>
+
+<section class="section">
+  <h2>about us</h2>
+  <p>
+    express travels ghana is a professional travel and immigration support brand
+    committed to helping qualified individuals secure legal work opportunities in canada.
+    we provide end-to-end guidance including eligibility assessment, documentation support,
+    and application assistance.
+  </p>
+</section>
+
+<section class="section gray">
+  <h2>our canada programs</h2>
+
+  <div class="card">
+    <h3>express registration (canada)</h3>
+    <ul>
+      <li>5 year work contract</li>
+      <li>processing time: 48 days</li>
+      <li>full payment upfront</li>
+      <li><strong>total cost: ghs 55,000</strong></li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h3>work and pay program (canada)</h3>
+    <ul>
+      <li>5 year work contract</li>
+      <li>pay little to start</li>
+      <li>processing time: 85 days</li>
+      <li><strong>estimated start cost: ghs 8,500</strong></li>
+      <li>remaining balance deducted from salary</li>
+    </ul>
+  </div>
+</section>
+
+<section class="section">
+  <h2>what we help you with</h2>
+  <ul class="checklist">
+    <li>eligibility assessment</li>
+    <li>job matching assistance</li>
+    <li>visa processing guidance</li>
+    <li>documentation support</li>
+    <li>pre-departure assistance</li>
+  </ul>
+</section>
+
+<section class="section gray">
+  <h2>requirements</h2>
+  <ul class="checklist">
+    <li>valid passport</li>
+    <li>birth certificate</li>
+    <li>national id card</li>
+    <li>application form fee</li>
+  </ul>
+</section>
+
+<section class="section">
+  <h2>why choose express travels ghana</h2>
+  <ul class="checklist">
+    <li>transparent process</li>
+    <li>no agents involved</li>
+    <li>clear payment structure</li>
+    <li>dedicated client support</li>
+    <li>trusted canada work programs</li>
+  </ul>
+</section>
+
+<footer class="footer">
+  <p><strong>whatsapp:</strong> +233 202 758 551</p>
+  <p><strong>email:</strong> expresstravelghana7@gmail.com</p>
+  <p>© express travels ghana. all rights reserved.</p>
+</footer>
+
+</body>
+</html>
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+  color: #222;
+}
+
+.hero {
+  background: linear-gradient(to right, #c4161c, #ffffff);
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.logo {
+  max-width: 120px;
+  margin-bottom: 20px;
+}
+
+.hero h1 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  max-width: 700px;
+  margin: auto;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 25px;
+  background: #0a8f44;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.section {
+  padding: 50px 20px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.section h2 {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.gray {
+  background: #f4f4f4;
+}
+
+.card {
+  background: #fff;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.card h3 {
+  margin-top: 0;
+}
+
+.checklist {
+  list-style: none;
+  padding: 0;
+}
+
+.checklist li {
+  padding-left: 25px;
+  margin-bottom: 10px;
+  position: relative;
+}
+
+.checklist li::before {
+  content: "✔";
+  position: absolute;
+  left: 0;
+  color: green;
+}
+
+.footer {
+  background: #111;
+  color: #fff;
+  text-align: center;
+  padding: 25px 10px;
+}
